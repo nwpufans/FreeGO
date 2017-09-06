@@ -12,6 +12,8 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
+    //我改了些东西
+
     private Button mainButton;
     private Button mapButton;
     private Button societyButton;
